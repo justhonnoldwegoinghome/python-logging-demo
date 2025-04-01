@@ -1,0 +1,12 @@
+2025-04-01 10:16:52,370 - root - DEBUG - Debug message from main
+2025-04-01 10:16:52,370 - root - INFO - Info message from main
+2025-04-01 10:16:52,370 - root - WARNING - Warning message from main
+2025-04-01 10:16:52,371 - root - ERROR - Error message from main
+2025-04-01 10:16:52,371 - root - CRITICAL - Critical message from main
+2025-04-01 10:16:52,371 - module1 - INFO - Info message from func1
+2025-04-01 10:16:52,371 - module1 - WARNING - Warning message from func1
+2025-04-01 10:16:52,371 - module1 - ERROR - Error message from func1
+2025-04-01 10:16:52,371 - module1 - CRITICAL - Critical message from func1
+2025-04-01 10:16:52,371 - module2 - WARNING - Warning message from func2
+2025-04-01 10:16:52,372 - module2 - ERROR - Error message from func2
+2025-04-01 10:16:52,372 - module2 - CRITICAL - Critical message from func2
